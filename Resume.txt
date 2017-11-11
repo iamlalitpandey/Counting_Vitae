@@ -1,0 +1,47 @@
+Lalitkumar Pandey
+85 Webster Ave, Jersey City, NJ 07307 • (551) 358-1798 • lalitatg@gmail.com • linkedin.com/in/iamlalitpandey
+SUMMARY
+• Data Engineer with 5 years of experience in ETL, Data Warehousing & Business Intelligence with MPP, NoSQL database.
+• Proficient in data modelling, data integration, designing data pipeline and data models for BI platforms.
+• Well-versed with Agile and Waterfall SDLC methodologies, Self-starter with strong analytical and organizational skills.
+EDUCATION
+Masters in Computer Science, May 2017, Stevens Institute of Technology GPA: 3.76
+Bachelor of Science in Computer Science, 2012, University of Mumbai
+SKILLS
+Databases: Teradata, SQL Server, MongoDB Languages: C, SQL, Python, R, HTML, UNIX
+BI Tools: Tableau, Qlik Sense Big Data: Hadoop, Hive, Spark, Sqoop
+Others: Microsoft SSIS, SSRS, SSMS, Informatica, Erwin, JIRA, Google Analytics, Git, Advanced Excel, Visio
+PROFESSIONAL EXPERIENCE
+Sogeti USA – Business Intelligence Analyst, NJ, US Jan 2017 – Present
+Data Engineer - Express Scripts
+• Designed data pipeline to integrate data from different sources using Sqoop, Hive, Unix on Hadoop environment.
+• Developed ETL packages for data integration, transformation and incremental loads in data warehouse using SSIS.
+• Built data integrity and validity checks to eliminate redundancy and promote data consistency during data integration.
+• Performed dimensional data modelling using Kimball methodology to invoke new data sources in data warehouse.
+• Responsible for maintaining SSIS ETL, Dev, QA, Production data warehouse and BI reporting environments.
+• Worked with the technical and functional teams to identify and correct data anomalies using data quality reports.
+• Writing complex SQL queries, views and stored procedures for ad hoc reporting and custom BI dashboards.
+• Optimized SQL queries by building index, collecting statistics to improve ETL processing & data loading time.
+Data Engineer- Johnson & Johnson
+• Integrated data sets involving complex mappings from multiple systems and designed cross-functional ETL solutions.
+• Maintaining the Teradata data warehouse platform and solving data discrepancies, ETL and BI reporting issues.
+• Developed several BI dashboards to track various KPI metrics on Supply Chain data warehouse using Tableau.
+• Optimized Tableau dashboards for minimal load time, eliminate performance bottlenecks using best practices.
+• Created technical and functional specifications of the dataflow in ETL and BI Platforms trained all the stakeholders.
+Teradata Corporation – Data Engineer, MH, India Jun 2012 – Dec 2015
+• Analyzed source data and performed data transformation to ensure successful load into Enterprise data warehouse.
+• Identified problematic SQL queries and optimized statistics, skew, indexes, joins to save system resources.
+• Performed trend analysis on historical data to forecast database space requirements circumventing space exhaustion
+• Reporting database performance issues and resource utilization trends using descriptive analytics in Tableau
+• Implemented UNIX crontab alert scripts to monitor system resources and access failures
+• Certified Teradata 12 SQL developer and Technical Specialist
+ACADEMIC PROJECTS
+Risk Assessment on Prudential Life Insurance Dataset – R, Machine learning Fall 2016
+• Created a prediction model using Linear regression and Decision Tree and to determine Insurance risk
+• Performed data cleansing, dimension reduction and evaluated the model performance using risk factors
+Social Graph mining for Yelp Dataset – Python, MongoDB Spring 2016
+• Created and analyzed data model on Yelp dataset to identify the social circle influence on individual users.
+• Implemented regression algorithm for predictive analytics, to find social relationships among users.
+PUBLICATIONS
+• Christopher Asakiewicz, Edward A. Stohr, Shrey Mahajan, Lalitkumar Pandey. Published in IEEE “Building a Cognitive
+Application Using Watson DeepQA” ISSN:1520-9202 August 2017
